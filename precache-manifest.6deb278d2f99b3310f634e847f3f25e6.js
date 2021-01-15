@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b0291764ed817313a29efa1f2a66a86",
+    "revision": "92867afaa2c9c42088b2104436fffee9",
     "url": "/growcify/index.html"
   },
   {
-    "revision": "41a0d7baf164b18fc6ed",
+    "revision": "c26b72b7f2879f091eb9",
     "url": "/growcify/static/css/main.ca827721.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/growcify/static/js/2.08780715.chunk.js"
   },
   {
-    "revision": "41a0d7baf164b18fc6ed",
-    "url": "/growcify/static/js/main.0019e917.chunk.js"
+    "revision": "c26b72b7f2879f091eb9",
+    "url": "/growcify/static/js/main.0870cc6c.chunk.js"
   },
   {
     "revision": "c5f547b64e0e55d2fb86",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/growcify/static/css/main.ca827721.chunk.css",
-    "main.js": "/growcify/static/js/main.0019e917.chunk.js",
-    "main.js.map": "/growcify/static/js/main.0019e917.chunk.js.map",
+    "main.js": "/growcify/static/js/main.0870cc6c.chunk.js",
+    "main.js.map": "/growcify/static/js/main.0870cc6c.chunk.js.map",
     "runtime-main.js": "/growcify/static/js/runtime-main.d409f22c.js",
     "runtime-main.js.map": "/growcify/static/js/runtime-main.d409f22c.js.map",
     "static/js/2.08780715.chunk.js": "/growcify/static/js/2.08780715.chunk.js",
     "static/js/2.08780715.chunk.js.map": "/growcify/static/js/2.08780715.chunk.js.map",
     "index.html": "/growcify/index.html",
-    "precache-manifest.1bd1ab2e6a16fee7f05cadce62c3402e.js": "/growcify/precache-manifest.1bd1ab2e6a16fee7f05cadce62c3402e.js",
+    "precache-manifest.6deb278d2f99b3310f634e847f3f25e6.js": "/growcify/precache-manifest.6deb278d2f99b3310f634e847f3f25e6.js",
     "service-worker.js": "/growcify/service-worker.js",
     "static/css/main.ca827721.chunk.css.map": "/growcify/static/css/main.ca827721.chunk.css.map"
   }
