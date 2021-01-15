@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/growcify/static/css/main.f183de13.chunk.css",
-    "main.js": "/growcify/static/js/main.772864f8.chunk.js",
-    "main.js.map": "/growcify/static/js/main.772864f8.chunk.js.map",
-    "runtime-main.js": "/growcify/static/js/runtime-main.19e3b972.js",
-    "runtime-main.js.map": "/growcify/static/js/runtime-main.19e3b972.js.map",
-    "static/js/2.97e7dd64.chunk.js": "/growcify/static/js/2.97e7dd64.chunk.js",
-    "static/js/2.97e7dd64.chunk.js.map": "/growcify/static/js/2.97e7dd64.chunk.js.map",
-    "static/js/3.3d14a2be.chunk.js": "/growcify/static/js/3.3d14a2be.chunk.js",
-    "static/js/3.3d14a2be.chunk.js.map": "/growcify/static/js/3.3d14a2be.chunk.js.map",
-    "static/css/4.f2fb09fa.chunk.css": "/growcify/static/css/4.f2fb09fa.chunk.css",
-    "static/js/4.e2771e94.chunk.js": "/growcify/static/js/4.e2771e94.chunk.js",
-    "static/js/4.e2771e94.chunk.js.map": "/growcify/static/js/4.e2771e94.chunk.js.map",
+    "main.css": "/growcify/static/css/main.ca827721.chunk.css",
+    "main.js": "/growcify/static/js/main.0019e917.chunk.js",
+    "main.js.map": "/growcify/static/js/main.0019e917.chunk.js.map",
+    "runtime-main.js": "/growcify/static/js/runtime-main.d409f22c.js",
+    "runtime-main.js.map": "/growcify/static/js/runtime-main.d409f22c.js.map",
+    "static/js/2.08780715.chunk.js": "/growcify/static/js/2.08780715.chunk.js",
+    "static/js/2.08780715.chunk.js.map": "/growcify/static/js/2.08780715.chunk.js.map",
     "index.html": "/growcify/index.html",
-    "precache-manifest.8e83c282431957aa44071480bc13b29d.js": "/growcify/precache-manifest.8e83c282431957aa44071480bc13b29d.js",
+    "precache-manifest.1bd1ab2e6a16fee7f05cadce62c3402e.js": "/growcify/precache-manifest.1bd1ab2e6a16fee7f05cadce62c3402e.js",
     "service-worker.js": "/growcify/service-worker.js",
-    "static/css/4.f2fb09fa.chunk.css.map": "/growcify/static/css/4.f2fb09fa.chunk.css.map",
-    "static/css/main.f183de13.chunk.css.map": "/growcify/static/css/main.f183de13.chunk.css.map"
+    "static/css/main.ca827721.chunk.css.map": "/growcify/static/css/main.ca827721.chunk.css.map"
   }
 }

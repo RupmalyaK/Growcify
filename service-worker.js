@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/growcify/precache-manifest.8e83c282431957aa44071480bc13b29d.js"
+  "/growcify/precache-manifest.1bd1ab2e6a16fee7f05cadce62c3402e.js"
 );
 
 self.addEventListener('message', (event) => {
